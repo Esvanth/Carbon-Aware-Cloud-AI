@@ -101,4 +101,4 @@ Module: Emerging AI Technologies and Sustainability
 
 ## License
 
-This project is for the academic module project
+This project is for the academic module
