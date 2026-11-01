@@ -1,0 +1,9 @@
+scikit-learn
+codecarbon
+pandas
+numpy
+matplotlib
+seaborn
+openpyxl
+ucimlrepo
+scipy

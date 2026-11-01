@@ -1,0 +1,75 @@
+provider,region_code,region_name,country,iso_code,carbon_intensity_gCO2_per_kWh,renewables_share
+AWS,us-east-1,US East (N. Virginia),United States,USA,384.4,1.414
+AWS,us-east-2,US East (Ohio),United States,USA,384.4,1.414
+AWS,us-west-1,US West (N. California),United States,USA,384.4,1.414
+AWS,us-west-2,US West (Oregon),United States,USA,384.4,1.414
+AWS,ca-central-1,Canada (Central),Canada,CAN,190.72,1.612
+AWS,eu-west-1,Europe (Ireland),Ireland,IRL,256.54,3.296
+AWS,eu-west-2,Europe (London),United Kingdom,GBR,217.41,14.098
+AWS,eu-west-3,Europe (Paris),France,FRA,41.44,1.902
+AWS,eu-central-1,Europe (Frankfurt),Germany,DEU,329.65,10.097
+AWS,eu-central-2,Europe (Zurich),Switzerland,CHE,39.22,3.199
+AWS,eu-north-1,Europe (Stockholm),Sweden,SWE,35.26,5.834
+AWS,eu-south-1,Europe (Milan),Italy,ITA,284.78,8.047
+AWS,eu-south-2,Europe (Spain),Spain,ESP,153.6,2.227
+AWS,ap-southeast-1,Asia Pacific (Singapore),Singapore,SGP,497.09,2.76
+AWS,ap-southeast-2,Asia Pacific (Sydney),Australia,AUS,525.18,1.062
+AWS,ap-northeast-1,Asia Pacific (Tokyo),Japan,JPN,477.26,5.333
+AWS,ap-northeast-2,Asia Pacific (Seoul),South Korea,KOR,417.06,3.152
+AWS,ap-northeast-3,Asia Pacific (Osaka),Japan,JPN,477.26,5.333
+AWS,ap-south-1,Asia Pacific (Mumbai),India,IND,670.13,1.107
+AWS,ap-east-1,Asia Pacific (Hong Kong),China,CHN,525.34,2.013
+AWS,sa-east-1,South America (Sao Paulo),Brazil,BRA,109.95,7.344
+AWS,me-south-1,Middle East (Bahrain),Bahrain,BHR,902.24,0.0
+AWS,af-south-1,Africa (Cape Town),South Africa,ZAF,699.29,0.194
+Azure,eastus,East US (Virginia),United States,USA,384.4,1.414
+Azure,eastus2,East US 2 (Virginia),United States,USA,384.4,1.414
+Azure,westus,West US (California),United States,USA,384.4,1.414
+Azure,westus2,West US 2 (Washington),United States,USA,384.4,1.414
+Azure,westus3,West US 3 (Arizona),United States,USA,384.4,1.414
+Azure,centralus,Central US (Iowa),United States,USA,384.4,1.414
+Azure,northeurope,North Europe (Ireland),Ireland,IRL,256.54,3.296
+Azure,westeurope,West Europe (Netherlands),Netherlands,NLD,253.56,5.076
+Azure,uksouth,UK South (London),United Kingdom,GBR,217.41,14.098
+Azure,ukwest,UK West (Cardiff),United Kingdom,GBR,217.41,14.098
+Azure,francecentral,France Central (Paris),France,FRA,41.44,1.902
+Azure,germanywestcentral,Germany West Central (Frankfurt),Germany,DEU,329.65,10.097
+Azure,swedencentral,Sweden Central (Gavle),Sweden,SWE,35.26,5.834
+Azure,switzerlandnorth,Switzerland North (Zurich),Switzerland,CHE,39.22,3.199
+Azure,norwayeast,Norway East (Oslo),Norway,NOR,28.11,0.211
+Azure,italynorth,Italy North (Milan),Italy,ITA,284.78,8.047
+Azure,polandcentral,Poland Central (Warsaw),Poland,POL,588.6,5.033
+Azure,southeastasia,Southeast Asia (Singapore),Singapore,SGP,497.09,2.76
+Azure,eastasia,East Asia (Hong Kong),China,CHN,525.34,2.013
+Azure,japaneast,Japan East (Tokyo),Japan,JPN,477.26,5.333
+Azure,japanwest,Japan West (Osaka),Japan,JPN,477.26,5.333
+Azure,koreacentral,Korea Central (Seoul),South Korea,KOR,417.06,3.152
+Azure,centralindia,Central India (Pune),India,IND,670.13,1.107
+Azure,australiaeast,Australia East (Sydney),Australia,AUS,525.18,1.062
+Azure,brazilsouth,Brazil South (Sao Paulo),Brazil,BRA,109.95,7.344
+Azure,southafricanorth,South Africa North (Johannesburg),South Africa,ZAF,699.29,0.194
+Azure,canadacentral,Canada Central (Toronto),Canada,CAN,190.72,1.612
+GCP,us-east1,South Carolina,United States,USA,384.4,1.414
+GCP,us-east4,Northern Virginia,United States,USA,384.4,1.414
+GCP,us-central1,Iowa,United States,USA,384.4,1.414
+GCP,us-west1,Oregon,United States,USA,384.4,1.414
+GCP,us-west4,Las Vegas,United States,USA,384.4,1.414
+GCP,northamerica-northeast1,Montreal,Canada,CAN,190.72,1.612
+GCP,europe-west1,Belgium,Belgium,BEL,149.82,5.172
+GCP,europe-west2,London,United Kingdom,GBR,217.41,14.098
+GCP,europe-west3,Frankfurt,Germany,DEU,329.65,10.097
+GCP,europe-west4,Netherlands,Netherlands,NLD,253.56,5.076
+GCP,europe-west6,Zurich,Switzerland,CHE,39.22,3.199
+GCP,europe-west9,Paris,France,FRA,41.44,1.902
+GCP,europe-north1,Finland,Finland,FIN,57.47,12.722
+GCP,asia-southeast1,Singapore,Singapore,SGP,497.09,2.76
+GCP,asia-southeast2,Jakarta,Indonesia,IDN,680.25,10.255
+GCP,asia-east1,Taiwan,Taiwan,TWN,633.21,0.728
+GCP,asia-east2,Hong Kong,China,CHN,525.34,2.013
+GCP,asia-northeast1,Tokyo,Japan,JPN,477.26,5.333
+GCP,asia-northeast2,Osaka,Japan,JPN,477.26,5.333
+GCP,asia-northeast3,Seoul,South Korea,KOR,417.06,3.152
+GCP,asia-south1,Mumbai,India,IND,670.13,1.107
+GCP,australia-southeast1,Sydney,Australia,AUS,525.18,1.062
+GCP,southamerica-east1,Sao Paulo,Brazil,BRA,109.95,7.344
+GCP,me-west1,Tel Aviv,Israel,ISR,492.69,0.195

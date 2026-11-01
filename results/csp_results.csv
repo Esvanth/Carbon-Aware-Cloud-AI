@@ -1,0 +1,5 @@
+model,best_carbon_gCO2,worst_carbon_gCO2,best_region,worst_region,csp,csp_percent
+Linear Regression,0.0003,0.0185,Azure norwayeast,AWS me-south-1,0.9838,98.4
+Random Forest,0.1924,7.9202,Azure norwayeast,AWS me-south-1,0.9757,97.6
+Gradient Boosted Trees,0.1907,11.7814,Azure norwayeast,AWS me-south-1,0.9838,98.4
+MLP Neural Network,1.5355,66.2498,Azure norwayeast,AWS me-south-1,0.9768,97.7
